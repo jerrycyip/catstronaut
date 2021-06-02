@@ -6,6 +6,10 @@ Apollo's Lift-off course companion app (completed)
 
 [Course Walk-through on Odyssey](https://odyssey.apollographql.com/lift-off-part1)
 
+## Web App Result
+### Homepage view
+![Catstronauts Homepage](catstronauts.png)
+
 ## Run the project
 
 Catstronauts full-stack app holds two main folders `server` and `client`.
